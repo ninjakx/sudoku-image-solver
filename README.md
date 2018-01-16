@@ -25,6 +25,7 @@ $ python sudoku.py --preprocess 1 --image images/s2.jpg
 
 
 references:
+
 [grid points](https://stackoverflow.com/questions/10196198/how-to-remove-convexity-defects-in-a-sudoku-square)
 
 [get features (of digits)](https://medium.com/@neshpatel/solving-sudoku-part-ii-9a7019d196a2)
